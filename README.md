@@ -1,8 +1,10 @@
 # Show-me webcam: An open source, trustable and high quality webcam
 
-The goal of this project:
+The goal of this fork:
 
 Booting a Raspberry Pi Zero in device mode over USB as a UVC webcam, no sd card needed.
+
+Using https://github.com/raspberrypi/usbboot
 
 [![Build/Release](https://github.com/showmewebcam/showmewebcam/workflows/Build/Release/badge.svg)](https://github.com/showmewebcam/showmewebcam/actions)
 [![License](https://img.shields.io/github/license/showmewebcam/showmewebcam?label=License)](https://github.com/showmewebcam/showmewebcam/blob/master/LICENSE)
@@ -22,7 +24,7 @@ Show-me webcam is proudly powered by [peterbay's uvc-gadget](https://github.com/
 - Raspberry Pi Zero Camera Adapter/Ribbon (The one that comes with the camera may not fit)
 - Raspberry Pi Camera or Raspberry Pi High-Quality Camera
 - [A compatible lens](https://github.com/showmewebcam/showmewebcam/wiki/Lenses) if you use the HQ Camera sensor
-- Micro SD card (at least 64MB)
+- ~~Micro SD card (at least 64MB)~~
 - A [case or mounting plate](https://github.com/showmewebcam/showmewebcam/wiki/Cases) (optional)
 
 ## What works and what doesn't
